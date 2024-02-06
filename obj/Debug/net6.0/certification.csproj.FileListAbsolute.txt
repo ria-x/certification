@@ -1,0 +1,15 @@
+C:\Users\riax\OneDrive\Рабочий стол\certifik\certification\bin\Debug\net6.0\certification.exe
+C:\Users\riax\OneDrive\Рабочий стол\certifik\certification\bin\Debug\net6.0\certification.deps.json
+C:\Users\riax\OneDrive\Рабочий стол\certifik\certification\bin\Debug\net6.0\certification.runtimeconfig.json
+C:\Users\riax\OneDrive\Рабочий стол\certifik\certification\bin\Debug\net6.0\certification.dll
+C:\Users\riax\OneDrive\Рабочий стол\certifik\certification\bin\Debug\net6.0\certification.pdb
+C:\Users\riax\OneDrive\Рабочий стол\certifik\certification\obj\Debug\net6.0\certification.csproj.AssemblyReference.cache
+C:\Users\riax\OneDrive\Рабочий стол\certifik\certification\obj\Debug\net6.0\certification.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\riax\OneDrive\Рабочий стол\certifik\certification\obj\Debug\net6.0\certification.AssemblyInfoInputs.cache
+C:\Users\riax\OneDrive\Рабочий стол\certifik\certification\obj\Debug\net6.0\certification.AssemblyInfo.cs
+C:\Users\riax\OneDrive\Рабочий стол\certifik\certification\obj\Debug\net6.0\certification.csproj.CoreCompileInputs.cache
+C:\Users\riax\OneDrive\Рабочий стол\certifik\certification\obj\Debug\net6.0\certification.dll
+C:\Users\riax\OneDrive\Рабочий стол\certifik\certification\obj\Debug\net6.0\refint\certification.dll
+C:\Users\riax\OneDrive\Рабочий стол\certifik\certification\obj\Debug\net6.0\certification.pdb
+C:\Users\riax\OneDrive\Рабочий стол\certifik\certification\obj\Debug\net6.0\certification.genruntimeconfig.cache
+C:\Users\riax\OneDrive\Рабочий стол\certifik\certification\obj\Debug\net6.0\ref\certification.dll
